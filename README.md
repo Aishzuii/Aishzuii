@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I'm Aishzu and I am currently learning the basics of GitHub👋
+- 🔭 I’m currently working on my GitHub basics!
+- 🌱 I’m currently learning MySQL, Java, Python, C and GitHub basics!
+- ⚡ Fun fact: I like video games!
 
 <!--
 **Aishzuii/Aishzuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
