@@ -1,6 +1,7 @@
-## Hi there I'm Hao Feng and I am currently learning the basics of GitHub👋
-- 🔭 I’m currently working on my GitHub basics!
-- 🌱 I’m currently learning SQL, Java, Python and GitHub basics!
+## Hi there I'm Hao Feng and I am constantly learnng new skills to improve myself!👋
+- 🔭 I’m currently working on my GitHub basics as well as Git!
+- 🌱 I’m currently learning SQL, Java, JavaScript, and GitHub basics!
+- ☄️ Goals: Familiarise with Docker, LLMs and PyTorch!
 - ⚡ Fun fact: I like video games!
 
 <!--
